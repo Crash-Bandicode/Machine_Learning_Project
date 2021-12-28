@@ -9,7 +9,7 @@ You can view this project's notebooksin static form by clicking on the following
 ### SciKit-Learn Project Static:
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Crash-Bandicode/Machine_Learning_Project/blob/main/scikit-learn.ipynb)
 
-Or live by clicking the following buttons:
+Or in dynamic form clicking the following buttons:
 
 ### Scipy-Stats Project Live:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Crash-Bandicode/Machine_Learning_Project/HEAD?labpath=scipy-stats.ipynb)
