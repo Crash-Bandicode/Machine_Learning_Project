@@ -1,6 +1,21 @@
 # Machine_Learning_Project
 
-Plan:
+## Quick Steps:
+You can view this project's notebooks at the following URLs:
+
+### Scipy-Stats Project:
+https://nbviewer.org/github/Crash-Bandicode/Machine_Learning_Project/blob/main/%20scipy-stats.ipynb
+
+### SciKit-Learn Project:
+https://nbviewer.org/github/Crash-Bandicode/Machine_Learning_Project/blob/main/scikit-learn.ipynb
+
+## How to run this notebook:
+
+1:Download [Anaconda]()
+2:Download [cmder]()
+3:Run 'jupyter lab'
+
+##Plan:
 
 A README file typically encompasses:
 
