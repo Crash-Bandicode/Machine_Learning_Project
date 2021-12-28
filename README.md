@@ -4,10 +4,10 @@
 You can view this project's notebooks by clicking on the following buttons:
 
 ### Scipy-Stats Project:
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)]https://nbviewer.org/github/Crash-Bandicode/Machine_Learning_Project/blob/main/%20scipy-stats.ipynb
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Crash-Bandicode/Machine_Learning_Project/blob/main/%20scipy-stats.ipynb)
 
 ### SciKit-Learn Project:
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)]https://nbviewer.org/github/Crash-Bandicode/Machine_Learning_Project/blob/main/scikit-learn.ipynb
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Crash-Bandicode/Machine_Learning_Project/blob/main/scikit-learn.ipynb)
 
 ## How to run this notebook:
 
