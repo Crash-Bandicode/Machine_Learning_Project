@@ -1,2 +1,56 @@
-numpy
-matplotlib
+For SciKit-Learn:
+
+# Numerical arrays.
+import numpy as np
+
+# Data frames.
+import pandas as pd
+
+# Plotting.
+import matplotlib.pyplot as plt
+%matplotlib inline
+
+from matplotlib import style
+
+import seaborn as sns
+
+# Logistic regression.
+import sklearn.linear_model as lm
+
+# K nearest neaighbours.
+import sklearn.neighbors as nei
+
+# Helper functions.
+import sklearn.model_selection as mod
+
+# Fancier, statistical plots.
+import seaborn as sns
+
+from sklearn.linear_model import LogisticRegression
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.linear_model import SGDClassifier 
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import classification_report
+from sklearn.preprocessing import StandardScaler
+from sklearn.model_selection import RandomizedSearchCV 
+from sklearn.model_selection import cross_val_score
+
+
+
+
+
+
+For Scipy.stats:
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+import scipy.stats as ss
+import collections as co
+import scipy.special as spec
+import urllib
+from statsmodels.formula.api import ols
+from statsmodels.stats.anova import anova_lm
